@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/thorn/Desktop/esp32touart/build/CMakeFiles/bootloader
+/home/thorn/Desktop/esp32touart/build/CMakeFiles/bootloader.rule
+/home/thorn/Desktop/esp32touart/build/CMakeFiles/bootloader-complete.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

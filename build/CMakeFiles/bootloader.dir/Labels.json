@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/thorn/Desktop/esp32touart/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

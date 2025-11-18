@@ -1,0 +1,2 @@
+source /home/thorn/Desktop/esp32touart/build/bootloader/gdbinit/symbols
+source /home/thorn/Desktop/esp32touart/build/bootloader/gdbinit/connect
