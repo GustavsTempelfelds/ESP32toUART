@@ -6,8 +6,8 @@
 #include "driver/gpio.h"
 #include "esp_log.h"
 
-#define UART_PC UART_NUM_0      // USB to PC
-#define UART_EXT UART_NUM_1     // External pins
+#define UART_PC UART_NUM_0  
+#define UART_EXT UART_NUM_1 
 
 #define BUF_SIZE 1024
 static const char *TAG = "UART_BRIDGE";
